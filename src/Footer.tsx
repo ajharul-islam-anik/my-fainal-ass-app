@@ -11,9 +11,7 @@ function Footer () {
          
           <div className="footer-logo"><img src="/images/logo-text.png" alt="" /></div>
 
-          <h2>
-            Dev <span>Stack</span>
-          </h2>
+         
 
           <p>
             Curated tools, technologies, and resources for developers
